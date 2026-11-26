@@ -1,0 +1,13 @@
+---
+description: 팀 Git 컨벤션 (단일 레포)
+alwaysApply: true
+---
+
+# Git 컨벤션
+
+상세: `GIT_CONVENTIONS.md`
+
+- **레포 하나**에서 이슈·브랜치·PR
+- 커밋: `타입: 한글 설명`
+- `dev` → `feat/이슈번호-작업명` (이슈 승인 후)
+- PR: `[#번호] Feature : …` · 대상 `dev`
