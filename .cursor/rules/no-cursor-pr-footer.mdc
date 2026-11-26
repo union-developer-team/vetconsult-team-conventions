@@ -1,0 +1,14 @@
+---
+description: PR/이슈 본문에 Made with Cursor 등 도구 푸터 금지
+alwaysApply: true
+---
+
+# PR·이슈 본문
+
+`gh pr create`, PR 본문, 이슈 본문을 작성할 때 다음을 **절대 넣지 않는다.**
+
+- `Made with Cursor`
+- `Made with [Cursor](https://cursor.com)`
+- 그 외 AI/에디터 광고·서명 푸터
+
+PR·이슈 본문은 팀 템플릿과 작업 설명만 작성한다.
